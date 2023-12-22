@@ -14,7 +14,7 @@ Também fiz cursos de Gestão de projetos pela Intituição Faveni onde consegui
 ## Conecte-se Comigo
 
 [![Github](https://img.shields.io/badge/Github-357?style=for-the-badge&logo=Github&logoColor=2222)](https://www.github.com/italonathansp)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-357?style=for-the-badge&logo=linkedin&logoColor=1111)]([www.linkedin.com/in/italo-nathan-119bb71a9](https://www.linkedin.com/in/italo-nathan-119bb71a9/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-357?style=for-the-badge&logo=linkedin&logoColor=1111)](www.linkedin.com/in/italo-nathan-119bb71a9)
 
 
 ## Habilidades
